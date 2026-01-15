@@ -1,7 +1,7 @@
 ## Aplikasi Quiz Master – Game Edukasi
-# Untuk memenuhi tugas UTS dan UAS Matakuliah Pemrograman Bergerak
-# Nama : Zulfika Cahyodiputro
-# NIM : 2205101099
+## Untuk memenuhi tugas UTS dan UAS Matakuliah Pemrograman Bergerak
+### Nama : Zulfika Cahyodiputro
+### NIM : 2205101099
 
 ## Aplikasi Flutter berbasis game edukasi berbentuk kuis interaktif.
 
